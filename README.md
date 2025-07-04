@@ -1,6 +1,8 @@
 # Voltages of battery electrodes
 Using the CGCNN transfer learning model to predict the voltages of Li, Na, K, Mg, Ca, Zn, Y, and Al-ion battery electrodes
 
+Code is from https://github.com/Shen-Group/Interpretable_AI_for_battery
+
 The package provides all the files that are used in the article of "Accurately predicting voltage of electrode materials in metal-ion batteries using interpretable
  deep transfer learning"
  
